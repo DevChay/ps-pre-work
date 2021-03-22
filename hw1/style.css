@@ -1,0 +1,26 @@
+.body{
+    background-color: cornflowerblue;
+}
+
+#header{
+    color: crimson;
+}
+
+.hone{
+    font-size: xx-large;
+    color: darkgoldenrod;
+    background-color: darkgreen;
+    position: relative;
+}
+
+#ptwo{
+    font-size:xx-large;
+    color: darkolivegreen;
+    background-color: darkred;
+}
+#image{
+    position: static;
+    min-width: 10;
+    max-width: 40;
+    width: auto;
+}
